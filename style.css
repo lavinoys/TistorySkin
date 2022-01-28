@@ -417,7 +417,7 @@ html {
     }
 
     .wrap-right #footer .inner-footer {
-        max-width: 1060px;
+        max-width: 1260px;
     }
 
     .wrap-drawer .article-header .inner-header {
@@ -1105,7 +1105,7 @@ html {
 
 #footer .inner-footer {
     position: relative;
-    max-width: 1180px;
+    max-width: 1380px;
     margin: 0 auto;
     padding: 0 20px;
 }
