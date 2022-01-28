@@ -495,7 +495,7 @@ html {
 /* // tt-body-page */
 /* 미디어 로그 티스토리 스타일 수정 */
 #mediaLogNest {
-    max-width: 106x;
+    max-width: 1260px;
     height: auto !important;
     margin: 0 auto 0 auto;
     padding: 0 20px;
@@ -1257,7 +1257,6 @@ html {
         height: 40px;
         padding-left: 20px;
         border-left: none;
-        border-left: right;
         background-position: calc(100% - 20px) center;
     }
 
