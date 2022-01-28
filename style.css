@@ -693,7 +693,7 @@ html {
 
 .header .inner-header {
     position: relative;
-    max-width: 1020px;
+    max-width: 1220px;
     margin: 0 auto;
 }
 
@@ -1303,7 +1303,7 @@ html {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    max-width: 1020px;
+    max-width: 1220px;
     height: 100%;
     margin: 0 auto;
     z-index: 2;
@@ -1404,14 +1404,14 @@ html {
 /* main */
 .main {
     width: 100%;
-    max-width: 1020px;
+    max-width: 1220px;
     margin: 0 auto;
 }
 
 /* area-main */
 .area-main {
     width: 100%;
-    max-width: 640px;
+    max-width: 840px;
 }
 
 /* ----- media query - mobile ----- */
@@ -2750,7 +2750,7 @@ html {
 }
 
 .article-header .inner-header {
-    max-width: 1020px;
+    max-width: 1220px;
     margin: 0 auto;
     color: #fff;
 }
@@ -4415,7 +4415,7 @@ html {
 		display: flex;
 		align-items: center;
 		justify-content: flex-start;
-		max-width: 1020px;
+		max-width: 1220px;
 		height: 100%;
 		margin: 0 auto;
 		z-index: 2;
@@ -4561,6 +4561,6 @@ html {
 }
 
 .revenue_unit_wrap.position_list{
-    max-width: 1020px;
+    max-width: 1220px;
     margin: 30px auto
 }
